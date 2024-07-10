@@ -1,2 +1,5 @@
 #addtion
 a=b+c
+
+#mul
+a=a*b
